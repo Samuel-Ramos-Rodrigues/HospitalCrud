@@ -110,7 +110,7 @@ Update-Database
 
 <div align="center">
 
-![Tela Inicial](HospitalCrud/imagens/tela-inicial.png)
+![Tela Inicial](imagens/tela-inicial.png)
 
 </div>
 
@@ -120,7 +120,7 @@ Update-Database
 
 <div align="center">
 
-![Lista de Instrutores](HospitalCrud/imagens/pacientes-index.png)
+![Lista de Instrutores](imagens/pacientes-index.png)
 
 </div>
 
